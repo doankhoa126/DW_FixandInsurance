@@ -1,1 +1,7 @@
-# DW_FixandInsurance
+## BUILDING AND ANALYSIS  DATA WAREHOUSE FOR ELECTRONIC EQUIPMENT REPAIR AND WARRANTY SERVICES
+### Xây dựng và phân tích Data warehouse dịch vụ sửa chữa vào bảo hành thiết bị điện tử
+#### Nguồn data: Data được thu nhập trên các nguồn kaggle, một số được tạo từ code Python
+#### Dữ liệu ban đầu được lưu trữ trong hai dạng CSV và trong SQL Server
+#### Dùng ETL để đưa data nguồn vào dw 
+#### Dùng Power BI để thống kê dữ liệu
+
